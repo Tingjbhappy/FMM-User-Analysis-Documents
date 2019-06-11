@@ -19,6 +19,10 @@
 #### 旨在引导决策层将工作中心放在新用户新增以及加快产品迭代从而获得更大的流量入口来弥补活跃用户缺口
 ## 引用
 #### 该报告引用了Sean Ellis 在《增长黑客》中“用户生命周期价值”的概念以及AARRR模型的相关内容
+![](https://github.com/Tingjbhappy/FMM-User-Analysis-Report/blob/master/user_report/Mau_2.jpg)
+![](https://github.com/Tingjbhappy/FMM-User-Analysis-Report/blob/master/user_report/user_3.jpg)
+![](https://github.com/Tingjbhappy/FMM-User-Analysis-Report/blob/master/user_report/user_4.jpg)
 ![](https://github.com/Tingjbhappy/FMM-User-Analysis-Report/blob/master/user_report/Lifecycle_5.jpg)
+![](https://github.com/Tingjbhappy/FMM-User-Analysis-Report/blob/master/user_report/Product_6.jpg)
 ## 作者
 #### 数据分析师：谢超，张平
